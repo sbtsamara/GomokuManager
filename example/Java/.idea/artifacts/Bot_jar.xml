@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bot_jar</output-path>
+    <root id="archive" name="Bot.jar">
+      <element id="module-output" name="Bot" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+-;Victory;Defeat;Draw
+d322;6;0;0
+d321;4;2;0
+BotPy;1;5;0
+jBot;1;5;0

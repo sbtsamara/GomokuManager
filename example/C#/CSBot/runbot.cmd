@@ -1,0 +1,1 @@
+type game.txt | CSBot.exe > game.log
