@@ -1,0 +1,5 @@
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\bin\Release\CSBot.exe
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\bin\Release\CSBot.pdb
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\obj\Release\CSBot.csprojResolveAssemblyReference.cache
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\obj\Release\CSBot.exe
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\obj\Release\CSBot.pdb

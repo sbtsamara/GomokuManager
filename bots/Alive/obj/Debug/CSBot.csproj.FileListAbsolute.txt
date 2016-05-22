@@ -1,0 +1,4 @@
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\bin\Debug\CSBot.exe
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\bin\Debug\CSBot.pdb
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\obj\Debug\CSBot.exe
+C:\Users\olymp5\Desktop\Задания\примеры ботов\C#\CSBot\obj\Debug\CSBot.pdb
