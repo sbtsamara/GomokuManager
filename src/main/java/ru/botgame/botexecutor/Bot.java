@@ -47,27 +47,17 @@ class Bot {
         return writer;
     }
 
-    public String getBotLocation() {
-        return botLocation;
-    }
+   // public String getBotLocation() { return botLocation; }
 
     public void kill() {
         process.destroyForcibly();
     }
 
-    public Process getProcess() {
-        return process;
-    }
+    //public Process getProcess() { return process; }
 
-    public long getTimer() {
-        return timer;
-    }
+    public long getTimer() { return timer; }
 
-    public void increaseTimer(long timer) {
-        this.timer += timer;
-    }
+    //public void increaseTimer(long timer) { this.timer += timer; }
 
-    public String getName() {
-        return name;
-    }
+    public String getName() { return name; }
 }
